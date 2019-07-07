@@ -10,6 +10,8 @@ For help getting started with Flutter, view our online
 ## Demo
 
 - see IOS demo here:
-![ios.gif](https://www.z4a.net/image/UIimVP)
+    
+    [ios.gif](https://www.z4a.net/image/UIimVP)
 - see Android demo here:
-![android.gif](https://www.z4a.net/image/UIcz6h)
+
+    [android.gif](https://www.z4a.net/image/UIcz6h)
